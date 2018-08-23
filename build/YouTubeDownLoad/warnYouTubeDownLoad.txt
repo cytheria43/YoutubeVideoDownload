@@ -1,0 +1,21 @@
+missing module named resource - imported by posix, E:\videoDownLoad\YouTubeDownLoad.py
+missing module named posix - imported by os, E:\videoDownLoad\YouTubeDownLoad.py
+missing module named _posixsubprocess - imported by subprocess, E:\videoDownLoad\YouTubeDownLoad.py
+missing module named org - imported by pickle, E:\videoDownLoad\YouTubeDownLoad.py
+missing module named readline - imported by cmd, code, pdb, E:\videoDownLoad\YouTubeDownLoad.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, E:\videoDownLoad\YouTubeDownLoad.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, E:\videoDownLoad\YouTubeDownLoad.py
+missing module named _winreg - imported by platform, E:\videoDownLoad\YouTubeDownLoad.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, E:\videoDownLoad\YouTubeDownLoad.py
+missing module named 'java.lang' - imported by platform, E:\videoDownLoad\YouTubeDownLoad.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, E:\videoDownLoad\YouTubeDownLoad.py
+missing module named termios - imported by tty, getpass, E:\videoDownLoad\YouTubeDownLoad.py
+missing module named urllib.urlencode - imported by urllib, pytube.compat
+missing module named grp - imported by tarfile, shutil, E:\videoDownLoad\YouTubeDownLoad.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, netrc, getpass, E:\videoDownLoad\YouTubeDownLoad.py
+missing module named _dummy_threading - imported by dummy_threading, E:\videoDownLoad\YouTubeDownLoad.py
+missing module named 'org.python' - imported by copy, E:\videoDownLoad\YouTubeDownLoad.py, xml.sax
+missing module named HTMLParser - imported by pytube.compat
+missing module named urlparse - imported by pytube.compat
+missing module named urllib2 - imported by pytube.compat
